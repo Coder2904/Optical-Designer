@@ -85,7 +85,7 @@ Frontend will run at: `http://localhost:5173`
    ```
 
 4. **Deploy**: Render will automatically deploy
-   - Your backend URL: `https://your-app.onrender.com`
+   - Your backend URL: `https://optical-designer-hpqt.onrender.com`
 
 ### Frontend Deployment (Vercel)
 

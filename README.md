@@ -22,3 +22,5 @@ Visit: http://localhost:5173
 ## Full Documentation
 
 See `/docs` directory for complete documentation.
+deployed on vercel but not updating on github ..Don't know why!?
+here's https://optical-designer.vercel.app/
