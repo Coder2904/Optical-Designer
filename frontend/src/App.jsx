@@ -5,7 +5,7 @@ const GRID_SIZE = 60;
 const CANVAS_WIDTH = 960;
 const CANVAS_HEIGHT = 720;
 const PORT_RADIUS = 8;
-const API_URL = 'http://localhost:8000';
+const API_URL = 'https://optical-designer-hpqt.onrender.com';
 
 const COMPONENT_TYPES = {
   laser: { 
